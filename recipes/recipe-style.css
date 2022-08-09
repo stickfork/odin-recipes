@@ -1,0 +1,53 @@
+* {
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: rgb(78, 78, 78);
+    text-align: center;
+    /* display: flex; */
+}
+
+.list {
+    text-align: left;
+}
+
+.title {
+    color: rgb(214, 214, 214);
+    /* border: 4px solid midnightblue; */
+}
+
+.bod {
+    color: rgb(172, 172, 172);
+    margin: 30px;
+    flex: 1 1 auto;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 4px solid red; */
+}
+
+.zyzz {
+    height: auto;
+    width: 400px;
+    display: flex;
+    /* border: 4px solid midnightblue; */
+    align-items: center;
+}
+
+.penis1, .penis2 {
+    color: gold;
+}
+
+.one, .two, .list, .penis2 {
+    height: 60px;
+    width: 450px;
+    margin: 20px;
+    /* border: 4px solid midnightblue; */
+}
+
+.penis2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+

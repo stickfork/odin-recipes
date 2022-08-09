@@ -1,0 +1,39 @@
+body {
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: rgb(214, 214, 214);
+    background-color: rgb(78, 78, 78);
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    /* border: 4px solid red; */
+    height: 800px;
+    flex: auto;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 4px solid midnightblue; */
+    height: 400px;
+    border-bottom: 1px solid white;
+}
+
+.intro1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 4px solid midnightblue; */
+    height: 400px;
+}
+
+.pen1 {
+    color: gold;
+}
+
+.pen2 {
+    color: rgb(87, 87, 87);
+}
